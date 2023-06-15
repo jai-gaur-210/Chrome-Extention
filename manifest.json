@@ -1,0 +1,11 @@
+{
+    "name" : "My Chrome Extention",
+    "version" : "1.0.0",
+    "description" : "Best extention ever existed",
+    "manifest_version": 3,
+    "author" : "Jai Gaur",
+    "action": {
+        "defaukt_popup" : "index.html",
+        "default_title" : "My Chrome Extention"
+    }
+}
